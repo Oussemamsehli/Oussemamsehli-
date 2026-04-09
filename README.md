@@ -21,7 +21,6 @@ name        : Oussema Msehli
 school      : ESPRIT — École Supérieure Privée d'Ingénierie et de Technologies
 year        : 2nd year Engineering
 location    : Tunis, Tunisia
-looking_for : Summer 2025 Internship — Cloud / DevOps / Infrastructure
 languages   : Arabic (native) · French (fluent) · English (professional)
 ```
 
